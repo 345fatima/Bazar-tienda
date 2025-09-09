@@ -1,0 +1,38 @@
+.titulo {
+    width: 400px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(214, 163, 243);
+    display: flex;
+    color: rgb(172, 8, 212);
+}
+
+.logo {
+    width: 65px;
+    height: 40px;
+    justify-content: left;
+    align-items: center;
+    display: flex;
+    margin-right: 15px;
+
+    
+}
+
+.logo img{
+    width: 95%;
+    border-radius: 8px;
+    
+}
+
+.tienda{
+    display: flex;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(37, 112, 209);
+
+}
+
+.tipos{
+    margin-top: 15px;
+}

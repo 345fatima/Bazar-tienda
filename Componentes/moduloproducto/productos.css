@@ -1,0 +1,11 @@
+.body{
+    font-family: monospace;
+    background: rgb(172, 223, 214);
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background: rgb(163, 207, 152);
+    padding: 15px;
+}
